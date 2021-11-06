@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "winSecurity", "winSecurity.csproj", "{19079E7F-1B8C-4317-909D-E158A633C52D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19079E7F-1B8C-4317-909D-E158A633C52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19079E7F-1B8C-4317-909D-E158A633C52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19079E7F-1B8C-4317-909D-E158A633C52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19079E7F-1B8C-4317-909D-E158A633C52D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {366E39B6-EAE0-4EBA-AFD0-2A7E4DCE58A3}
+	EndGlobalSection
+EndGlobal
